@@ -1,0 +1,24 @@
+section,metric,value
+threaded,rounds,10
+threaded,mean_ns,17057703970.000
+threaded,median_ns,15749961150.000
+threaded,sample_stdev_ns,4297898438.069
+threaded,min_ns,15458070100
+threaded,max_ns,29276422700
+sequential,rounds,10
+sequential,mean_ns,14508301120.000
+sequential,median_ns,14470795150.000
+sequential,sample_stdev_ns,214468904.598
+sequential,min_ns,14124747600
+sequential,max_ns,14926941300
+comparison,speedup_ratio_sequential_mean_over_threaded_mean,0.850542
+comparison,percentage_change_threaded_vs_sequential,17.572029
+comparison,interpretation,threaded runs took LONGER than sequential runs on average
+design,inputs,35 38 40
+design,order,alternate
+design,pause_seconds,2.0
+environment,python_version,3.14.7
+environment,implementation,CPython
+environment,gil_status,enabled
+environment,platform,Windows-11-10.0.26300-SP0
+environment,logical_cpu_count,12
