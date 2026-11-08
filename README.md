@@ -67,18 +67,3 @@ the computer while it runs. Use the default inputs (35 38 40) and 10 rounds for 
 
 The CSV files contain only data produced by your own runs. Generated CSVs are your evidence:
 commit them, but do not edit the numbers by hand.
-
-## GitHub submission reminders
-
-* Push all three `.py` files, `README.md` and `results/` (including the `.gitkeep` and your real CSV files).
-* Make the repository public or give the marker access; open the link in a private window to confirm it works.
-* Use meaningful commit messages and commit your own changes as you adapt the code.
-* Put the GitHub link in your report. Do not commit personal information or screenshots of unrelated windows.
-* Re-run all three programs from a fresh clone before submitting.
-
-## Academic integrity
-
-This code is a starting point. Before submitting, you must read it, run it, test it, and adapt
-it so you can explain every part in the VIVA and modify it live. Submitting work you do not
-understand, or reporting results you did not obtain from your own runs, breaches academic-integrity rules.
-Follow your university's policy on permitted use of AI assistance and declare it if required.
